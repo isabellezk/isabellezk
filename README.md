@@ -1,4 +1,4 @@
-## Hi world ⋆˚࿔
+## hello world, I'm Isabelle, be very welcome ⋆˚࿔
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=8018F7&width=435&lines=cursando+an%C3%A1lise+e+desenvolvimento+de+sistemas)](https://git.io/typing-svg)
 <!--
