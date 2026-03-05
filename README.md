@@ -13,6 +13,7 @@
 <h3>Atualmente aprendendo:</h3>
 <ul>
   <li>Linguagem C</li>
+  <li>HTML</li>
 </ul>
 
 <br>
