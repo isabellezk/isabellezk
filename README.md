@@ -6,7 +6,7 @@
 <p>I'm Isabelle, a Systems Analysis and Development student.
 Just starting my journey in the world of technology and programming</p>
 <p>Excited to learn, build projects, and explore new tech!</p>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
