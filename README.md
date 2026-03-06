@@ -1,5 +1,11 @@
-<h2 align="center">hello! welcome to my profile :)</h2>
+<h2 align="center">
+  <span style="color:#ff69b4">hello! welcome to my profile :)</span>
+</h2>
 
+
+<p>I'm Isabelle, a Systems Analysis and Development student.
+Just starting my journey in the world of technology and programming</p>
+<p>Excited to learn, build projects, and explore new tech!</p>
 ###
 
 <div align="center">
